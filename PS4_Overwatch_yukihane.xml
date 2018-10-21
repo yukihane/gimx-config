@@ -128,11 +128,11 @@
         </axis>
         <axis id="rel_axis_2" label="Aim horizontal">
           <device type="mouse" id="0" name=""/>
-          <event type="axis" id="x" dead_zone="20" multiplier="0.50" exponent="1.00" shape="Circle"/>
+          <event type="axis" id="x" dead_zone="5" multiplier="0.15" exponent="1.00" shape="Circle"/>
         </axis>
         <axis id="rel_axis_3" label="Aim vertical">
           <device type="mouse" id="0" name=""/>
-          <event type="axis" id="y" dead_zone="20" multiplier="0.50" exponent="1.00" shape="Circle"/>
+          <event type="axis" id="y" dead_zone="5" multiplier="0.15" exponent="1.00" shape="Circle"/>
         </axis>
       </axis_map>
       <joystick_corrections_list/>
