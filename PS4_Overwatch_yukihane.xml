@@ -68,9 +68,9 @@
           <device type="mouse" id="0" name=""/>
           <event type="button" id="BUTTON_LEFT"/>
         </button>
-        <button id="abs_axis_15" label="Interact with portal">
+        <button id="abs_axis_6" label="Interact with portal">
           <device type="keyboard" id="0" name=""/>
-          <event type="button" id="f"/>
+          <event type="button" id="v"/>
         </button>
         <button id="abs_axis_16" label="Quick melee">
           <device type="mouse" id="0" name=""/>
