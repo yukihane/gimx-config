@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-  <controller id="1" dpi="2800" type="DS4">
+  <controller id="1" dpi="2500" type="DS4">
     <configuration id="1">
       <trigger type="joystick" id="0" name="PS4 Controller" button_id="5" switch_back="no" delay="0"/>
       <mouse_options_list>
