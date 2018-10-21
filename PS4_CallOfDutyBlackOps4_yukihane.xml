@@ -92,6 +92,10 @@
           <device type="keyboard" id="0" name=""/>
           <event type="button" id="g"/>
         </button>
+        <button id="abs_axis_1" label="D-Pad Up">
+          <device type="keyboard" id="0" name=""/>
+          <event type="button" id="ESCAPE"/>
+        </button>
       </button_map>
       <axis_map>
         <axis id="rel_axis_3" label="Aiming - y axis">
