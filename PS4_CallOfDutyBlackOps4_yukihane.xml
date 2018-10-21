@@ -48,6 +48,10 @@
           <device type="mouse" id="0" name=""/>
           <event type="button" id="BUTTON_WHEELDOWN"/>
         </button>
+        <button id="abs_axis_7" label="Secondary weapon">
+          <device type="mouse" id="0" name=""/>
+          <event type="button" id="BUTTON_MIDDLE"/>
+        </button>
         <button id="abs_axis_6" label="D-Pad Left">
           <device type="keyboard" id="0" name=""/>
           <event type="button" id="1"/>
@@ -79,6 +83,14 @@
         <button id="abs_axis_17" label="">
           <device type="keyboard" id="0" name=""/>
           <event type="button" id="TAB"/>
+        </button>
+        <button id="abs_axis_3" label="D-Pad Up">
+          <device type="keyboard" id="0" name=""/>
+          <event type="button" id="t"/>
+        </button>
+        <button id="abs_axis_5" label="D-Pad Down">
+          <device type="keyboard" id="0" name=""/>
+          <event type="button" id="g"/>
         </button>
       </button_map>
       <axis_map>
