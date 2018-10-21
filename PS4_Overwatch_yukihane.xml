@@ -104,6 +104,10 @@
           <device type="keyboard" id="0" name=""/>
           <event type="button" id="a"/>
         </button>
+        <button id="abs_axis_16" label="vote">
+          <device type="keyboard" id="0" name=""/>
+          <event type="button" id="b"/>
+        </button>
       </button_map>
       <axis_map>
         <axis id="rel_axis_0-" label="Move left">
